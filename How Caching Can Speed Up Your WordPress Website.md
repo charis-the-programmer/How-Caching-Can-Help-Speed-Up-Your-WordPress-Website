@@ -98,6 +98,6 @@ Overall, all caching plugins improve your website’s load speed but however it 
 
 ## References
 
-[WordPress Official Website](https://wordpress.org/plugins/)
+* WordPress Plugins - [WordPress Website](https://wordpress.org/plugins/)
  
 
